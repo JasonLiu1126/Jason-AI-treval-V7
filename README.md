@@ -1,5 +1,5 @@
-# Japan AI Concierge V7 Smart Route
+# JapanGO V7.5 Smart Route
 
-智慧交通：GPS 判斷目前區域，點目的地後顯示站名、時間、票價與 Google/Apple 導航。
+新增：多路線方案、參考票價、幾站、轉乘次數、時間、Google/Apple 即時導航。
 
-LaBless ONE＆LaLaBless：大阪府大阪市北区大深町3-1 グランフロント大阪北館 B1F
+注意：票價與時間為出發前整理的參考值，現場仍請以 Google Maps / Apple Maps / 車站資訊為準。

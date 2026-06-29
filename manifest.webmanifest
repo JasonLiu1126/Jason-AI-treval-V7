@@ -1,7 +1,7 @@
 {
-  "name": "Japan AI Concierge V7 Smart Route",
-  "short_name": "Japan AI Route",
-  "start_url": "/?v=smart7",
+  "name": "JapanGO V7.5 Smart Route",
+  "short_name": "JapanGO V7.5",
+  "start_url": "/?v=75",
   "display": "standalone",
   "background_color": "#f6f1e8",
   "theme_color": "#111827",

@@ -1,0 +1,9 @@
+{
+  "name": "Japan AI Concierge V7 Smart Route",
+  "short_name": "Japan AI Route",
+  "start_url": "/?v=smart7",
+  "display": "standalone",
+  "background_color": "#f6f1e8",
+  "theme_color": "#111827",
+  "icons": []
+}

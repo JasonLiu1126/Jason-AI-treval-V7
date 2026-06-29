@@ -1,5 +1,10 @@
-# JapanGO V7.5 Smart Route
+# JapanGO V9 Offline AI
 
-新增：多路線方案、參考票價、幾站、轉乘次數、時間、Google/Apple 即時導航。
+這版不連 AI API，採用內建資料庫：
+- GPS / Demo 區域判斷附近推薦
+- 必買神物資料庫
+- 已買後不再提醒
+- 智慧交通：多路線、參考票價、幾站、時間
+- 美食與購物推薦
 
-注意：票價與時間為出發前整理的參考值，現場仍請以 Google Maps / Apple Maps / 車站資訊為準。
+注意：票價與時間為參考值，現場仍以 Google Maps / 車站資訊為準。

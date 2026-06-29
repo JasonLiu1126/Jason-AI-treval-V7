@@ -1,7 +1,7 @@
 {
-  "name": "JapanGO V7.5 Smart Route",
-  "short_name": "JapanGO V7.5",
-  "start_url": "/?v=75",
+  "name": "JapanGO V9 Offline AI",
+  "short_name": "JapanGO V9",
+  "start_url": "/?v=9",
   "display": "standalone",
   "background_color": "#f6f1e8",
   "theme_color": "#111827",
